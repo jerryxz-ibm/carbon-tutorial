@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// Dummy modification for Git test
+
 class App extends Component {
   render() {
     return (
