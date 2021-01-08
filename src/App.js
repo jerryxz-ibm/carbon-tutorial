@@ -4,6 +4,8 @@ import './App.css';
 
 // Dummy modification for Git test
 
+// Another dummy change
+
 class App extends Component {
   render() {
     return (
